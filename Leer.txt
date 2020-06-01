@@ -1,0 +1,7 @@
+Video de Youtube: "Nodejs y Mysql, Aplicación Completa (Login, Registro, CRUD, ES6+ y Más )"
+by Fazt 21 de DIC de 2018
+Ruta: D:\Documentos\Edwin\Cursos\Fazt\NODEJS-MySQL-APP
+
+Hoy martes 28/04/2020 en plena Pandemia Covid-19, voy arrancar desde cero 
+haciendo el tutorial que inicia con un login y permite proteger los enlaces, los usuarios no interfieren
+con los datos de los demas
